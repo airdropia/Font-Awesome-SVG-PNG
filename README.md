@@ -64,3 +64,5 @@ sudo apt-get install librsvg2-bin
 
 You may also be interested in the following projects:
 - [Dellos7/local-icons](https://github.com/Dellos7/local-icons). List of CSS classes that allow you to use the **Font-Awesome-SVG-PNG** icons in your HTML & CSS in a very easy way. Just copy/paste - no need to import external CSS stylesheets.
+
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
